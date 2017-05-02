@@ -1,5 +1,5 @@
-# handydoodads
-This is a repository of handy dandy applications
+# random
+This is a repository of handy dandy applications/scripts I have made.
 
 Currently has:
   pollz.py 
